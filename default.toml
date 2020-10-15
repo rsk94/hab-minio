@@ -1,0 +1,9 @@
+[backend]
+path = "C:\\Data2"
+
+[listener]
+port    = "9001"
+
+[config]
+access_key = "minio"
+secret_key = "minio123"
